@@ -2,7 +2,7 @@
 
 **Track:** Track 2 — Development & Local Deployment of Private AI Agents
 **Project:** Work Assistant
-**Status:** Source code, English documentation, a dedicated Radeon Cloud vLLM deployment, and a reproducible endpoint measurement are complete. Demo video, supplementary material, and the official pull request remain pending.
+**Status:** Source code, English documentation, a dedicated Radeon Cloud vLLM deployment, a reproducible endpoint measurement, demo video, project specification, and presentation have been submitted through the official pull request.
 
 ## 1. Executive Summary
 
@@ -259,8 +259,8 @@ Demo video: [Bilibili - Work Assistant](https://www.bilibili.com/video/BV1weu76j
 | Radeon Cloud/vLLM deployment | Complete; local application basic chat verified |
 | AMD GPU optimization measurements | One reproducible endpoint configuration measured; no unmeasured before/after claim |
 | 3–5 minute demo video | [Available on Bilibili](https://www.bilibili.com/video/BV1weu76jEb2/) |
-| Poster | [`output/pdf/work-assistant-track-2-poster.pdf`](output/pdf/work-assistant-track-2-poster.pdf) |
-| Official Pull Request | Pending creation from the official contest fork |
+| Presentation | [`work-assistant-track-2-demo-deck.pptx`](work-assistant-track-2-demo-deck.pptx) |
+| Official Pull Request | [#168](https://github.com/AMD-DEV-CONTEST/Radeon-hackathon-2026-07/pull/168) |
 
 ## 10. Limitations and Responsible Use
 
