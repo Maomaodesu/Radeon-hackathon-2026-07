@@ -7,7 +7,7 @@
 - **Source code:** [Maomaodesu/work-assistant-agent](https://github.com/Maomaodesu/work-assistant-agent)
 - **Demo video:** [Watch the 3-5 minute demonstration on Bilibili](https://www.bilibili.com/video/BV1weu76jEb2/)
 - **Project specification:** [project-specification.md](project-specification.md)
-- **Poster:** [work-assistant-track-2-poster.pdf](work-assistant-track-2-poster.pdf)
+- **Presentation:** [work-assistant-track-2-demo-deck.pptx](work-assistant-track-2-demo-deck.pptx)
 
 ## Overview
 
